@@ -4,7 +4,7 @@ public class sweet {
 	private String name;
 	private int pp;
 	private int q2;
-	float q1;
+	private float q1;
 	public sweet(String name,int pp,int q2)
 	{
 		setName(name);
