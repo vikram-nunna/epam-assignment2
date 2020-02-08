@@ -2,9 +2,9 @@ package epam.assignment2;
 import java.util.*;
 public class sw 
 {
-	String choco;
-	int pr;
-	int quat;
+	private String choco;sssss
+	private int pr;
+	private int quat;
 public sw(String choco,int pr,int quat)
 {
 	setchoclatename(choco);
