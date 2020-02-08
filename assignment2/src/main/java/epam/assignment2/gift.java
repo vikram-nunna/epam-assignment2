@@ -2,8 +2,8 @@ package epam.assignment2;
 import java.util.*;
 public class gift 
 {
-	String gname;
-	int pr;
+	private String gname;
+	private int pr;
 public gift(String gname,int pr)
 {
 	setgiftname(gname);
